@@ -1,10 +1,19 @@
-### Hi there 👋
+# Hi there 👋 WIP
+I'm french student learning cyber security at [INSA Hauts-de-France]<https://www.insa-hautsdefrance.fr/index.html>
+I am not active on github I use gitlab: <https://gitlab.com/lamisedaxeh>
+
+### Profile on other interesting site :
+- [Try Hack Me]<https://tryhackme.com/p/Lamisedaxeh>
+- [Codingame]<https://www.codingame.com/profile/ee25adceb6ff351f01218bbb23f194f53159433>
+- [RootMe]<https://www.root-me.org/lamisedaxeh>
+
+### 🔭 I’m currently working
+
+### 🌱 I’m currently learning ...
+
 
 <!--
-**Lamisedaxeh/Lamisedaxeh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Here are some ideas to get you started:
-
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
