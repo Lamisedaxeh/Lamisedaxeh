@@ -5,7 +5,7 @@
 <p align="center">
   <img src="https://img.shields.io/badge/OS-Arch_Linux-1793D1?style=flat-square&logo=Arch-Linux&logoColor=white"/>
   <img src="https://img.shields.io/badge/IDE-Vim-019733?style=flat-square&logo=Vim&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Shell-zsh-4EAA25?style=flat-square&logo=GNU Bash&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Shell-zsh-4EAA25?style=flat-square&logo=GNU%20Bash&logoColor=white"/>
   <img src="https://img.shields.io/badge/WM-i3_dwm_gnome-4A86CF?style=flat-square&logo=gnome&logoColor=white"/>
   <img src="https://img.shields.io/badge/Browser-Firefox-FF7139?style=flat-square&logo=Firefox&logoColor=white"/>
 </p>
