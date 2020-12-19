@@ -1,13 +1,13 @@
 <p align="center">
-  <img src="https://img.shields.io/badge/Git-GitLab-FCA121?style=flat-square&logo=GitLab&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Free_software-Lover_❤️-3DA639?style=flat-square&logo=Open%20source%20Initiative&logoColor=white"/>
+  <a targe="_blank" href="https://gitlab.com/lamisedaxeh"> <img src="https://img.shields.io/badge/Git-GitLab-FCA121?style=flat-square&logo=GitLab&logoColor=white"/></a>
+  <a targe="_blank" href="https://www.fsf.org/"> <img src="https://img.shields.io/badge/Free_software-Lover_❤️-3DA639?style=flat-square&logo=Open%20source%20Initiative&logoColor=white"/></a>
 </p>
 <p align="center">
-  <img src="https://img.shields.io/badge/OS-Arch_Linux-1793D1?style=flat-square&logo=Arch-Linux&logoColor=white"/>
-  <img src="https://img.shields.io/badge/IDE-Vim-019733?style=flat-square&logo=Vim&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Shell-zsh-4EAA25?style=flat-square&logo=GNU%20Bash&logoColor=white"/>
-  <img src="https://img.shields.io/badge/WM-i3_dwm_gnome-4A86CF?style=flat-square&logo=gnome&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Browser-Firefox-FF7139?style=flat-square&logo=Firefox&logoColor=white"/>
+  <a targe="_blank" href="https://archlinux.org/"> <img src="https://img.shields.io/badge/OS-Arch_Linux-1793D1?style=flat-square&logo=Arch-Linux&logoColor=white"/></a>
+  <a targe="_blank" href="https://www.vim.org/"> <img src="https://img.shields.io/badge/IDE-Vim-019733?style=flat-square&logo=Vim&logoColor=white"/></a>
+  <a targe="_blank" href="https://ohmyz.sh/"> <img src="https://img.shields.io/badge/Shell-zsh-4EAA25?style=flat-square&logo=GNU%20Bash&logoColor=white"/></a>
+  <a targe="_blank" href="https://dwm.suckless.org/"> <img src="https://img.shields.io/badge/WM-i3_dwm_gnome-4A86CF?style=flat-square&logo=gnome&logoColor=white"/></a>
+  <a targe="_blank" href="https://www.mozilla.org/fr/firefox/"> <img src="https://img.shields.io/badge/Browser-Firefox-FF7139?style=flat-square&logo=Firefox&logoColor=white"/></a>
 </p>
 
 # About Me
@@ -21,8 +21,7 @@ I'm french student learning cyber security at [INSA Hauts-de-France](https://www
 - <a targe="_blank" href="https://www.codingame.com/profile/ee25adceb6ff351f01218bbb23f194f53159433">
   <img src="https://img.shields.io/badge/CodinGame-Lamisedaxeh-f2bb13?style=flat-square&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAMAAAAoLQ9TAAAABGdBTUEAALGPC/xhBQAAACBjSFJNAAB6JgAAgIQAAPoAAACA6AAAdTAAAOpgAAA6mAAAF3CculE8AAAAY1BMVEX/0gCylg4xMyY6OSS6nA3+0QAuMCYgJSk+PCTPrQlaUh7NqwnLqQpeVR5CPyNpXhvduAbowAQqLSf80ADwxgOBcBfYswciJimdhhLqwgSOehVMRyHctwZQSiD3zAH1ygL///9iKlN2AAAAAWJLR0Qgs2s9gAAAAAd0SU1FB+QMEw4GKzYllYgAAABfSURBVBjTlYxJFoAgDEOriBEUBxxw9v639LHgUdyZVfOThuiHslwU3MsSyJOGAKoEKK3rcDem7XqWDRaAGNk+vKYIZu/Z4GLhzLqFf7VbHGeMffu6KQWKUuDkB+Bh/gVbBgNcRoCIBwAAACV0RVh0ZGF0ZTpjcmVhdGUAMjAyMC0xMi0xOVQxNDowMToxNCswMDowMM0DWosAAAAldEVYdGRhdGU6bW9kaWZ5ADIwMjAtMTItMTlUMTQ6MDE6MTQrMDA6MDC8XuI3AAAAAElFTkSuQmCC&logoColor=white&link=https://www.codingame.com/profile/ee25adceb6ff351f01218bbb23f194f53159433"/>
   </a>
-- <a targe="_blank" href="https://www.root-me.org/lamisedaxeh">
-<img src="https://img.shields.io/badge/RootMe-Lamisedaxeh-FCA121?style=flat-square&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAACXBIWXMAAA7EAAAOxAGVKw4bAAABYElEQVQ4jZXSMUtcURAF4C/rsixLkKSxSOEzEEQkASsJwYCVjSA2gVRJEIJgYUQQUtikEkmRWElAyE8QbGwES8VODaxVwEYIxIdkG1lELO4svKyu4oHHve/O3Jlzz5kut2MID9GM7xoedLg4hud4in1k+IM1nN/R1DyGUcFnTMZ5DzZj7cjgHf6iikf4hSfoxwss4w2+4LK9cwVzceEZSliPtRvfIq8fE61LXYUCr6PqOV5iED/xGDNYitgpxrEjqrfQgy304jc2UMYCvuIs8kqSuNoL5JLyZzjCimTjNP4V8j4oWFouBHbjnfV450dc+B9TkqWHNzFoRvfvkvrVQmwI2/iE44hfY9CMypcYybLsfZ7ntUajUcHbyNkLVkc6YDZY1STlByVL61iVhJ6N+I3ok+zqjf9haTZabOcUZqATSljEgDRcr2I/gtH25HL7gaRBFkwOJEeqOMGPu7rfG1elsEUcu7b9EQAAAABJRU5ErkJggg==&logoColor=white&link=https://www.root-me.org/lamisedaxeh"/>
+- <a targe="_blank" href="https://www.root-me.org/lamisedaxeh"><img src="https://img.shields.io/badge/RootMe-Lamisedaxeh-FCA121?style=flat-square&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAACXBIWXMAAA7EAAAOxAGVKw4bAAABYElEQVQ4jZXSMUtcURAF4C/rsixLkKSxSOEzEEQkASsJwYCVjSA2gVRJEIJgYUQQUtikEkmRWElAyE8QbGwES8VODaxVwEYIxIdkG1lELO4svKyu4oHHve/O3Jlzz5kut2MID9GM7xoedLg4hud4in1k+IM1nN/R1DyGUcFnTMZ5DzZj7cjgHf6iikf4hSfoxwss4w2+4LK9cwVzceEZSliPtRvfIq8fE61LXYUCr6PqOV5iED/xGDNYitgpxrEjqrfQgy304jc2UMYCvuIs8kqSuNoL5JLyZzjCimTjNP4V8j4oWFouBHbjnfV450dc+B9TkqWHNzFoRvfvkvrVQmwI2/iE44hfY9CMypcYybLsfZ7ntUajUcHbyNkLVkc6YDZY1STlByVL61iVhJ6N+I3ok+zqjf9haTZabOcUZqATSljEgDRcr2I/gtH25HL7gaRBFkwOJEeqOMGPu7rfG1elsEUcu7b9EQAAAABJRU5ErkJggg==&logoColor=white&link=https://www.root-me.org/lamisedaxeh"/>
 </a>
 
 
