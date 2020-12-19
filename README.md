@@ -16,6 +16,9 @@ I am not active on github I use gitlab: <https://gitlab.com/lamisedaxeh>
 
 I'm french student learning cyber security at [INSA Hauts-de-France](https://www.insa-hautsdefrance.fr/index.html)
 
+
+PS : Looking for two internships in 2021 (2 month) and 2022 (+6 month)
+
 # Profile on other interesting site :
 - <a targe="_blank" href="https://tryhackme.com/p/Lamisedaxeh"><img src="https://img.shields.io/badge/TryHackMe-Lamisedaxeh-c11111?style=flat-square&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAMAAAAoLQ9TAAAABGdBTUEAALGPC/xhBQAAAAFzUkdCAK7OHOkAAADJUExURUdwTMEREcEREb0SEr8SEsEREcEREbAUFMEREcEREcEREcEREcEREcEREcEREbkTE8EREcEREcERER4oKB0oKCIoKMEREcEREcEREcEREcEREcEREcEREcEREcEREcEREcERESsoKMEREcERESkoKCgoKMEREcEREcEREcEREcEREcEREcEREcEREcEREcEREbIXF8EREQkpKZkcHCkoKCgoKCgoKA4pKcERESgoKDQoKDonJygoKCgoKCgoKMEREcEREZYdHcEREYWa9uoAAABDdFJOUwA9eTYEVBQBnwlBzyrSeCg6b3IDEioyssy4F4WagcFRTjhlHD58BQ+JoGneMckOYiNGImpPZnYlXB8ZCXNVbFUidUo4u3KUAAAAqElEQVQYGQXBBWKDQAAAsBQoB9Td3ebu1m7/f9QSCFfZsDJYJACaw2KcVgcRQF4pQVrrgzCeXPYDzOb1RqB0HV2c58in7dZ8zSgOEpAEm9pGLQWA4mAUA+PJrEiiv7qiUj+Wy+XlzW3UtCjaVM+yLMumdw+v3fdeB4Duz/P2ZdcDwKr3sf3uBgD37bdW4WsHoBE3qqf49xHA6ukzP6yPLQCdTrJs7vf5PywADViy4cIXAAAAAElFTkSuQmCC&logoColor=white&link=https://tryhackme.com/p/Lamisedaxeh"/></a>
 - <a targe="_blank" href="https://www.codingame.com/profile/ee25adceb6ff351f01218bbb23f194f53159433">
