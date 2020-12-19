@@ -9,6 +9,7 @@
   <a targe="_blank" href="https://dwm.suckless.org/"> <img src="https://img.shields.io/badge/WM-i3_dwm_gnome-4A86CF?style=flat-square&logo=gnome&logoColor=white"/></a>
   <a targe="_blank" href="https://www.mozilla.org/fr/firefox/"> <img src="https://img.shields.io/badge/Browser-Firefox-FF7139?style=flat-square&logo=Firefox&logoColor=white"/></a>
 </p>
+<p align="center">Blog : <a arge="_blank" href="https://lamisedaxeh.gitlab.io">https://lamisedaxeh.gitlab.io</a></p>
 
 # About Me
 I am not active on github I use gitlab: <https://gitlab.com/lamisedaxeh>
