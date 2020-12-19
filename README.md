@@ -1,12 +1,13 @@
 # Hi there 👋 WIP
-I'm french student learning cyber security at [INSA Hauts-de-France]<https://www.insa-hautsdefrance.fr/index.html>
+I'm french student learning cyber security at [INSA Hauts-de-France](https://www.insa-hautsdefrance.fr/index.html)
 I am not active on github I use gitlab: <https://gitlab.com/lamisedaxeh>
 
 ### Profile on other interesting site :
-- [Try Hack Me]<https://tryhackme.com/p/Lamisedaxeh>
-- [Codingame]<https://www.codingame.com/profile/ee25adceb6ff351f01218bbb23f194f53159433>
-- [RootMe]<https://www.root-me.org/lamisedaxeh>
+- [Try Hack Me](https://tryhackme.com/p/Lamisedaxeh)
+- [Codingame](https://www.codingame.com/profile/ee25adceb6ff351f01218bbb23f194f53159433)
+- [RootMe](https://www.root-me.org/lamisedaxeh)
 
+![THM score](https://tryhackme-badges.s3.amazonaws.com/Lamisedaxeh.png)
 ### 🔭 I’m currently working
 
 ### 🌱 I’m currently learning ...
