@@ -15,7 +15,7 @@
 I am not active on github I use gitlab: <https://gitlab.com/lamisedaxeh>
 
 
-I'm french student learning cyber security at [INSA Hauts-de-France](https://www.insa-hautsdefrance.fr/index.html)
+I'm french student learning cyber security at [INSA Hauts-de-France](https://www.insa-hautsdefrance.fr/)
 
 
 PS : Looking for two internships in 2021 (2 month) and 2022 (+6 month)
