@@ -12,7 +12,7 @@
 <p align="center">Blog : <a arge="_blank" href="https://lamisedaxeh.gitlab.io">https://lamisedaxeh.gitlab.io</a></p>
 
 # About Me
-I am not active on github. I on gitlab: <https://gitlab.com/lamisedaxeh>
+I am not active on github. I am on gitlab: <https://gitlab.com/lamisedaxeh>
 
 
 I'm french student learning cyber security at [INSA Hauts-de-France](https://www.insa-hautsdefrance.fr/)
