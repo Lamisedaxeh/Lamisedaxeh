@@ -14,7 +14,7 @@
 # About Me
 I am not active on GitHub. I primarily use GitLab: <https://gitlab.com/lamisedaxeh>
 
-🔐 I’m a professional Pentester & Application Security Expert, passionate about offensive security, secure development practices, and exploring the depths of system internals and exploitation techniques.
+🔐 I’m a professional Pentester & Application Security Expert, passionate about offensive security, secure development practices, and exploring the depths of Appsec, Unix, Source code and exploitation techniques.
 
 # Profile on other interesting site :
 - <a targe="_blank" href="https://tryhackme.com/p/Lamisedaxeh"><img src="https://img.shields.io/badge/TryHackMe-Lamisedaxeh-c11111?style=flat-square&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAMAAAAoLQ9TAAAABGdBTUEAALGPC/xhBQAAAAFzUkdCAK7OHOkAAADJUExURUdwTMEREcEREb0SEr8SEsEREcEREbAUFMEREcEREcEREcEREcEREcEREcEREbkTE8EREcEREcERER4oKB0oKCIoKMEREcEREcEREcEREcEREcEREcEREcEREcEREcEREcERESsoKMEREcERESkoKCgoKMEREcEREcEREcEREcEREcEREcEREcEREcEREcEREbIXF8EREQkpKZkcHCkoKCgoKCgoKA4pKcERESgoKDQoKDonJygoKCgoKCgoKMEREcEREZYdHcEREYWa9uoAAABDdFJOUwA9eTYEVBQBnwlBzyrSeCg6b3IDEioyssy4F4WagcFRTjhlHD58BQ+JoGneMckOYiNGImpPZnYlXB8ZCXNVbFUidUo4u3KUAAAAqElEQVQYGQXBBWKDQAAAsBQoB9Td3ebu1m7/f9QSCFfZsDJYJACaw2KcVgcRQF4pQVrrgzCeXPYDzOb1RqB0HV2c58in7dZ8zSgOEpAEm9pGLQWA4mAUA+PJrEiiv7qiUj+Wy+XlzW3UtCjaVM+yLMumdw+v3fdeB4Duz/P2ZdcDwKr3sf3uBgD37bdW4WsHoBE3qqf49xHA6ukzP6yPLQCdTrJs7vf5PywADViy4cIXAAAAAElFTkSuQmCC&logoColor=white&link=https://tryhackme.com/p/Lamisedaxeh"/></a>
